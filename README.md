@@ -3,6 +3,18 @@ Create high-quality blogs in **English, Hindi, and French** using an agentic LLM
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Multilingual%20Blog%20Generator-7A00F5?style=for-the-badge&logo=ai" />
+  <img src="https://img.shields.io/badge/Made%20By-Akshay%20Sharma-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-LangGraph-5B0AFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Groq-FF4A1B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Orchestration-LangChain-1F77D0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Tech-Structured%20Output-7A00F5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-English%20%7C%20Hindi%20%7C%20French-5D3FD3?style=for-the-badge" />
+</p>
+
+
 ## 🚀 Project Overview
 
 This project is a **production-ready multilingual blog generator** that automatically:
