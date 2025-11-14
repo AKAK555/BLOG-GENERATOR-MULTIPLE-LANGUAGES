@@ -86,7 +86,7 @@ src/
 
 ## 🛠 Installation
 
-git clone https://github.com/your-username/blog-generator-langgraph.git
+git clone https://github.com/AKAK555/blog-generator-langgraph.git
 cd blog-generator-langgraph
 
 python -m venv venv
@@ -170,9 +170,11 @@ Add Streamlit or Next.js frontend
 🤝 Contributing
 
 Pull requests are welcome!
+
 Open an issue if you find bugs or want features.
 
 💬 Author
 
 Akshay Sharma
+
 Feel free to connect on LinkedIn or GitHub!
