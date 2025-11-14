@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[oc]
+*.egg
+*.egg-info/
+build/
+dist/
+wheels/
+pip-log.txt
+
+# Virtual environments
+.venv/
+env/
+ENV/
+.venv
+env
+ENV
+
+# dotenv files
+.env
+.env.*
+
+# Language/IDE specific (optional)
+.vscode/
+.mypy_cache/
+.pytest_cache/
